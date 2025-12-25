@@ -190,7 +190,7 @@ var menuData = {
         "PL-Title": "Database Backup",
         "PL-Bin": "pl_DBbackup.bin",
         "PL-Ver": "v1.0 - By Leeful / Port By Al Azif",
-        "PL-Desc": "Create a backup of important database files. (ایجاد نسخه پشتیبان از فایل‌های مهم پایگاه داده)<br><br>A backup of your app databases will be created and saved internally on your PS4 HDD and also to USB if a USB drive is inserted.",
+        "PL-Desc": "Create a backup of important database files. (ایجاد نسخه پشتیبان از فایل‌های مهم پایگاه داده)<br><br>A backup of your app databases will be created and saved internally on your PS4 HDD and also to USB if a USB drive is inserted. (یک نسخه پشتیبان از پایگاه‌های داده برنامه شما ایجاد و به صورت داخلی روی هارد دیسک PS4 شما و همچنین در صورت اتصال درایو USB روی USB ذخیره خواهد شد.)",
         "Icon": "&#xf56e;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -198,7 +198,7 @@ var menuData = {
         "PL-Title": "PKG-BackUP",
         "PL-Bin": "pl_PKGBackup.bin",
         "PL-Ver": "v1.23 - By Kameleon(kmeps4)",
-        "PL-Desc": "Modded Version of App Dumper to Backup PKG files to External HDD",
+        "PL-Desc": "Modded Version of App Dumper to Backup PKG files to External HDD (نسخه اصلاح‌شده App Dumper برای پشتیبان‌گیری از فایل‌های PKG روی هارد اکسترنال)",
         "Icon": "&#xF56D;",
         "FW": ["9.xx","8.xx","7.xx"]
       }
@@ -213,7 +213,7 @@ var menuData = {
         "PL-Title": "Restore Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "** More payloads will be added here soon... **<br>Contains various payloads to restore all aspect of useful things on your PS4.",
+        "PL-Desc": "** More payloads will be added here soon...(به زودی افزونه‌های بیشتری به اینجا اضافه خواهد شد) **<br>Contains various payloads to restore all aspect of useful things on your PS4. (شامل فایل‌های مفید مختلفی برای بازیابی تمام جنبه‌های مفید PS4 شما است.)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -221,7 +221,7 @@ var menuData = {
         "PL-Title": "Database Restore",
         "PL-Bin": "pl_DBrestore.bin",
         "PL-Ver": "v1.0 - By Leeful / Port By Al Azif",
-        "PL-Desc": "Restore a backup of the database files created by 'Database Backup'<br><br>The backup will be restored from either the Internal HDD or from USB if a USB drive is inserted.<br>If a USB drive is inserted, the backup on the USB will be the one used to restore.",
+        "PL-Desc": "Restore a backup of the database files created by 'Database Backup'(بازیابی نسخه پشتیبان از فایل‌های پایگاه داده ایجاد شده توسط «پشتیبان‌گیری از پایگاه داده»)<br><br>The backup will be restored from either the Internal HDD or from USB if a USB drive is inserted.(نسخه پشتیبان از طریق هارد دیسک داخلی یا در صورت اتصال درایو USB از طریق USB بازیابی خواهد شد.)<br>If a USB drive is inserted, the backup on the USB will be the one used to restore.(اگر درایو USB وصل باشد، نسخه پشتیبان موجود در USB همان نسخه‌ای خواهد بود که برای بازیابی استفاده می‌شود.)",
         "Icon": "&#xf56f;",
         "FW": ["9.xx","8.xx","7.xx"]
       }
@@ -236,7 +236,7 @@ var menuData = {
         "PL-Title": "Game Dumper Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "Contains payloads to dump games from your PS4 <br>so that you can then build your own fake packages that you can install.",
+        "PL-Desc": "Contains payloads to dump games from your PS4 (حاوی پیلودهایی برای تخلیه بازی‌ها از PS4 شما است.) <br>so that you can then build your own fake packages that you can install.(تا بتوانید بسته‌های جعلی خودتان را بسازید که بتوانید نصب کنید)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -244,7 +244,7 @@ var menuData = {
         "PL-Title": "Dump Game & Update (PS4 App Dumper)",
         "PL-Bin": "pl_DumperApp.bin",
         "PL-Ver": "v1.9 - Original Version By xVortex / Port and Mod By Al Azif",
-        "PL-Desc": "Dump your games or apps to a USB drive to be able to create fpkg files.<br><br>This payload will dump your game and game update (if there is one) into two seperate folders on your USB drive.<br>No config file is needed with this payload!",
+        "PL-Desc": "Dump your games or apps to a USB drive to be able to create fpkg files.(بازی‌ها یا برنامه‌های خود را روی یک درایو USB بریزید تا بتوانید فایل‌های fpkg ایجاد کنید.)<br><br>This payload will dump your game and game update (if there is one) into two seperate folders on your USB drive.(این پیلودها، بازی و به‌روزرسانی بازی شما (در صورت وجود) را در دو پوشه جداگانه در درایو USB شما ذخیره می‌کند.)<br>No config file is needed with this payload!(با این پیلود نیازی به فایل پیکربندی نیست)",
         "Icon": "&#xf1b3;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -291,7 +291,7 @@ var menuData = {
         "PL-Title": "Spoof Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "Contains payloads to spoof various things on your PS4.",
+        "PL-Desc": "Contains payloads to spoof various things on your PS4(حاوی فایل‌های مخرب برای جعل موارد مختلف در PS4 شما است.).",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -299,7 +299,7 @@ var menuData = {
         "PL-Title": "Enable DEX Features (toDEX)",
         "PL-Bin": "pl_toDEX.bin",
         "PL-Ver": "v1.0 - By notzecoxao/FW port by Al Azif",
-        "PL-Desc": "Converts your Target ID to (DEX)<br><br>Adds new options in the game info menu to uninstall just DLC or just game updates.<br>To remove debug features just reboot your console or run To-Retail.",
+        "PL-Desc": "Converts your Target ID to (DEX) (شناسه هدف شما را به (DEX) تبدیل می‌کند.)<br><br>Adds new options in the game info menu to uninstall just DLC or just game updates. (گزینه‌های جدیدی در منوی اطلاعات بازی اضافه شده است تا فقط DLC یا فقط به‌روزرسانی‌های بازی را حذف کنید.)<br>To remove debug features just reboot your console or run To-Retail. (برای حذف ویژگی‌های اشکال‌زدایی، کافیست کنسول خود را مجدداً راه‌اندازی کنید یا To-Retail را اجرا کنید.)",
         "Icon": "&#xf7f9;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -307,7 +307,7 @@ var menuData = {
         "PL-Title": "Disable DEX Features (toCEX)",
         "PL-Bin": "pl_toCEX.bin",
         "PL-Ver": "v1.0 - By Leeful",
-        "PL-Desc": "Converts your Target ID back to Retail (CEX)<br><br>Removes the DEX features.",
+        "PL-Desc": "Converts your Target ID back to Retail (CEX) (شناسه هدف شما را به خرده‌فروشی (CEX) تبدیل می‌کند)<br><br>Removes the DEX features.(ویژگی‌های DEX را حذف می‌کند)",
         "Icon": "&#xf7f9;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -338,7 +338,7 @@ var menuData = {
         "PL-Title": "Game Mods Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "Contains Mod Menus and Trainers for PS4 Games.<br><br>GTA V Mod Menus are compatable with different update versions of the game.",
+        "PL-Desc": "Contains Mod Menus and Trainers for PS4 Games.(شامل منوهای مد و ترینر برای بازی‌های PS4)<br><br>GTA V Mod Menus are compatable with different update versions of the game.(منوهای مد GTA V با نسخه‌های مختلف به‌روزرسانی بازی سازگار هستند.)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -346,7 +346,7 @@ var menuData = {
         "PL-Title": "PS4 Trainer (WebRTE)",
         "PL-Bin": "pl_WebRTE.bin",
         "PL-Ver": "v1.01 - By PS4 Trainer / 7.00 to 11.00 Port By EchoStretch",
-        "PL-Desc": "Run payload then go to ps4trainer.com/Trainer/index.html<br>on any device to use trainers.",
+        "PL-Desc": "Run payload then go to ps4trainer.com/Trainer/index.html<br>on any device to use trainers.(فایل اجرایی را اجرا کنید و سپس برای استفاده از ترینرها، روی هر دستگاهی به ps4trainer.com/Trainer/index.html بروید.)",
         "Icon": "&#xf108;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -354,7 +354,7 @@ var menuData = {
         "PL-Title": "ArabicGuy Menu For GTA V v1.27",
         "PL-Bin": "pl_GTA_ArabicGuy127.bin",
         "PL-Ver": "v1.0 - By RF0oDxM0Dz",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.27 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.27 must be installed.(آپدیت بازی نسخه ۱.۲۷ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xf5e1;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -362,7 +362,7 @@ var menuData = {
         "PL-Title": "ArabicGuy Menu For GTA V v1.32",
         "PL-Bin": "pl_GTA_ArabicGuy132.bin",
         "PL-Ver": "v1.0 - By RF0oDxM0Dz",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.32 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.32 must be installed.(آپدیت بازی نسخه ۱.۳۲ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xf5e1;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -370,7 +370,7 @@ var menuData = {
         "PL-Title": "ArabicGuy Menu For GTA V v1.33",
         "PL-Bin": "pl_GTA_ArabicGuy133.bin",
         "PL-Ver": "v1.0 - By RF0oDxM0Dz",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.33 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.33 must be installed.(آپدیت بازی نسخه ۱.۳۳ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xf5e1;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -378,7 +378,7 @@ var menuData = {
         "PL-Title": "BeefQueefMod Menu For GTA V v1.33",
         "PL-Bin": "pl_GTA_Beef133.bin",
         "PL-Ver": "v1.0 - By GraFfiX_221211",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.33 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.33 must be installed.(آپدیت بازی نسخه ۱.۳۳ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xf63b;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -386,7 +386,7 @@ var menuData = {
         "PL-Title": "BeefQueefMod Menu For GTA V v1.34",
         "PL-Bin": "pl_GTA_Beef134.bin",
         "PL-Ver": "v1.0 - By GraFfiX_221211",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.34 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.34 must be installed.(آپدیت بازی نسخه ۱.۳۴ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xf63b;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -394,7 +394,7 @@ var menuData = {
         "PL-Title": "BeefQueefMod Menu For GTA V v1.38",
         "PL-Bin": "pl_GTA_Beef138.bin",
         "PL-Ver": "v1.0 - By GraFfiX_221211",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.38 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.38 must be installed.(آپدیت بازی نسخه ۱.۳۸ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xf63b;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -402,7 +402,7 @@ var menuData = {
         "PL-Title": "WildeModz Menu For GTA V v1.32",
         "PL-Bin": "pl_GTA_WildeModz132.bin",
         "PL-Ver": "v1.0 - By WildeModz",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.32 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.32 must be installed.(آپدیت بازی نسخه ۱.۳۲ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xF1B9;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -410,7 +410,7 @@ var menuData = {
         "PL-Title": "WildeModz Menu For GTA V v1.33",
         "PL-Bin": "pl_GTA_WildeModz133.bin",
         "PL-Ver": "v1.0 - By WildeModz",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.33 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.33 must be installed.(آپدیت بازی نسخه ۱.۳۳ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xF1B9;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -418,7 +418,7 @@ var menuData = {
         "PL-Title": "WildeModz Menu For GTA V v1.38",
         "PL-Bin": "pl_GTA_WildeModz138.bin",
         "PL-Ver": "v1.0 - By WildeModz",
-        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.38 must be installed.<br><br>Activate Menu With: 'D-Pad Right + Square'",
+        "PL-Desc": "Mod Menu for GTA V<br>*Game update v1.38 must be installed.(آپدیت بازی نسخه ۱.۳۸ باید نصب باشد)<br><br>Activate Menu With: 'D-Pad Right + Square' (فعال کردن منو با: 'D-Pad راست + مربع')",
         "Icon": "&#xF1B9;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -426,7 +426,7 @@ var menuData = {
         "PL-Title": "HavanaMod Menu For RDR2 V1.29",
         "PL-Ver": "v1.0 - By 0x199",
         "PL-Bin": "pl_RDR2_havana129.bin",
-        "PL-Desc": "Mod Menu fMod Menu for RDR2 <br>*Game update v1.29 must be installed.<br><br>Activate Menu With: 'R1 + Square'",
+        "PL-Desc": "Mod Menu fMod Menu for RDR2 (منوی مد منوی fMod برای RDR2)<br>*Game update v1.29 must be installed.(آپدیت بازی نسخه ۱.۲۹ باید نصب باشد)<br><br>Activate Menu With: 'R1 + Square' (فعال کردن منو با: 'R1 + مربع)",
         "Icon": "&#xF6F0;",
         "FW": ["9.00"]
       },
@@ -434,7 +434,7 @@ var menuData = {
         "PL-Title": "OystersMod Menu FREEver For RDR2 V1.00",
         "PL-Ver": "v1.3.8 - By RF0oDxM0Dz",
         "PL-Bin": "pl_RDR2_oysters100.bin",
-        "PL-Desc": "Mod Menu fMod Menu for RDR2 <br>*Game update v1.00 must be installed.<br><br>Activate Menu With: 'R1 + Square'",
+        "PL-Desc": "Mod Menu fMod Menu for RDR2 (منوی مد منوی fMod برای RDR2)<br>*Game update v1.00 must be installed.(آپدیت بازی نسخه ۱.۰۰ باید نصب باشد)<br><br>Activate Menu With: 'R1 + Square' (فعال کردن منو با: 'R1 + مربع)",
         "Icon": "&#xF78E;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -442,7 +442,7 @@ var menuData = {
         "PL-Title": "OystersMod Menu FREEver For RDR2 V1.13",
         "PL-Ver": "v1.3.8 - By RF0oDxM0Dz",
         "PL-Bin": "pl_RDR2_oysters113.bin",
-        "PL-Desc": "Mod Menu fMod Menu for RDR2 <br>*Game update v1.13 must be installed.<br><br>Activate Menu With: 'R1 + Square'",
+        "PL-Desc": "Mod Menu fMod Menu for RDR2 (منوی مد منوی fMod برای RDR2)<br>*Game update v1.13 must be installed.(آپدیت بازی نسخه ۱.۱۳ باید نصب باشد)<br><br>Activate Menu With: 'R1 + Square' (فعال کردن منو با: 'R1 + مربع)",
         "Icon": "&#xF78E;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -450,7 +450,7 @@ var menuData = {
         "PL-Title": "OystersMod Menu FREEver For RDR2 V1.19",
         "PL-Ver": "v1.3.8 - By RF0oDxM0Dz",
         "PL-Bin": "pl_RDR2_oysters119.bin",
-        "PL-Desc": "Mod Menu fMod Menu for RDR2 <br>*Game update v1.19 must be installed.<br><br>Activate Menu With: 'R1 + Square'",
+        "PL-Desc": "Mod Menu fMod Menu for RDR2 ()منوی مد منوی fMod برای RDR2<br>*Game update v1.19 must be installed.(آپدیت بازی نسخه ۱.۱۹ باید نصب باشد)<br><br>Activate Menu With: 'R1 + Square' (فعال کردن منو با: 'R1 + مربع)",
         "Icon": "&#xF78E;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -458,7 +458,7 @@ var menuData = {
         "PL-Title": "OystersMod Menu FREEver For RDR2 V1.24",
         "PL-Ver": "v1.3.8 - By RF0oDxM0Dz",
         "PL-Bin": "pl_RDR2_oysters124.bin",
-        "PL-Desc": "Mod Menu fMod Menu for RDR2 <br>*Game update v1.24 must be installed.<br><br>Activate Menu With: 'R1 + Square'",
+        "PL-Desc": "Mod Menu fMod Menu for RDR2 (منوی مد منوی fMod برای RDR2)<br>*Game update v1.24 must be installed. (آپدیت بازی نسخه ۱.۲۴ باید نصب باشد)<br><br>Activate Menu With: 'R1 + Square' (فعال کردن منو با: 'R1 + مربع)",
         "Icon": "&#xF78E;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -466,7 +466,7 @@ var menuData = {
         "PL-Title": "OystersMod Menu FREEver For RDR2 V1.29",
         "PL-Ver": "v1.3.8 - By RF0oDxM0Dz",
         "PL-Bin": "pl_RDR2_oysters129.bin",
-        "PL-Desc": "Mod Menu fMod Menu for RDR2 <br>*Game update v1.29 must be installed.<br><br>Activate Menu With: 'R1 + Square'",
+        "PL-Desc": "Mod Menu fMod Menu for RDR2 (منوی مد منوی fMod برای RDR2)<br>*Game update v1.29 must be installed. (آپدیت بازی نسخه ۱.۲۹ باید نصب باشد)<br><br>Activate Menu With: 'R1 + Square' (فعال کردن منو با: 'R1 + مربع)",
         "Icon": "&#xF78E;",
         "FW": ["9.xx","8.xx","7.xx"]
       }
@@ -481,7 +481,7 @@ var menuData = {
         "PL-Title": "Linux Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "Contains Linux Loader payloads to run Linux on your PS4.",
+        "PL-Desc": "Contains Linux Loader payloads to run Linux on your PS4. (شامل فایل‌های Linux Loader برای اجرای لینوکس روی PS4 شما است.)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -873,3 +873,4 @@ var menuData = {
   }
 
 }
+
