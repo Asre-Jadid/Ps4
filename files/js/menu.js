@@ -8,7 +8,7 @@ var menuData = {
         "PL-Title": "Main Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "Contains payloads to exploit and run homebrew on <br>your 9.00 firmware PS4.<br>Other payloads that are frequently used can also be found<br>here like FTP and Bin Loader.",
+        "PL-Desc": "Contains payloads to exploit and run homebrew on (حاوی پیلودهایی برای استفاده و اجرای خانگی  ...) <br>your 9.00 firmware PS4 (فریمور ۹.۰۰ شما برای PS4) <br>Other payloads that are frequently used can also be found (سایر پیلودهایی که اغلب استفاده می‌شوند را نیز می‌توان یافت.)<br>here like FTP and Bin Loader (اینجا مثل FTP و Bin Loader)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -16,7 +16,7 @@ var menuData = {
         "PL-Title": "GoldHEN",
         "PL-Bin": "GoldHEN.bin",
         "PL-Ver": "By SiSTRo",
-        "PL-Desc": "<b>* PRESS R1 TO CHANGE VERSION *<br>* PRESS L1 TO SET AutoLoad After Exploit ON/OFF *</b><br>Homebrew Enabler, Enable Debug Settings, PSVR Support,<br>External HDD Support, Remote PKG Installer Support,<br>Full Rest Mode Support, Debug Trophies Support, Enable UART,<br>Enable Blocked Screenshots, FTP Server on port 2121,<br>BinLoader Server on port 9090.",
+        "PL-Desc": "<b>* PRESS R1 TO CHANGE VERSION (برای تغییر نسخه، R1 را فشار دهید)*<br>* PRESS L1 TO SET AutoLoad After Exploit ON/OFF (برای روشن/خاموش کردن بارگذاری خودکار پس از اکسپلویت، L1 را فشار دهید)*</b><br>Homebrew Enabler, Enable Debug Settings, PSVR Support (PSVR فعال‌کننده‌ی خانگی، فعال‌سازی تنظیمات اشکال‌زدایی، پشتیبانی از ),<br>External HDD Support, Remote PKG Installer Support (پشتیبانی از هارد دیسک خارجی، پشتیبانی از نصب PKG از راه دور),<br>Full Rest Mode Support, Debug Trophies Support, Enable UART (پشتیبانی کامل از حالت استراحت، پشتیبانی از تروفی‌های اشکال‌زدایی، فعال کردن UART),<br>Enable Blocked Screenshots, FTP Server on port 2121 (فعال کردن اسکرین‌شات‌های مسدود شده، سرور FTP روی پورت ۲۱۲۱),<br>BinLoader Server on port 9090 (سرور BinLoader روی پورت ۹۰۹۰).",
         "Icon": "<img src=\"img/hen.svg\">",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -32,7 +32,7 @@ var menuData = {
         "PL-Title": "FTP Server",
         "PL-Bin": "pl_FTP.bin",
         "PL-Ver": "v1.08b -By hippie68 / Port By Al Azif",
-        "PL-Desc": "A full access FTP server for the PS4.<br>Connect your FTP client to the IP address that the <br>popup message tells you.<br>The FTP port number is 1337.",
+        "PL-Desc": "A full access FTP server for the PS4 (یک سرور FTP با دسترسی کامل برای PS4).<br>Connect your FTP client to the IP address that the (متصل کنید کلاینت FTP خود را به آدرس IP که) <br>popup message tells you (پیام پاپ‌آپ به شما می‌گوید).<br>The FTP port number is 1337 (شماره پورت FTP برابر با ۱۳۳۷ است.).",
         "Icon": "<img src=\"img/ftp.svg\">",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -40,7 +40,7 @@ var menuData = {
         "PL-Title": "App2USB",
         "PL-Bin": "pl_App2usb.bin",
         "PL-Ver": "v5.0 - Original Version By Stooged / Port By Al Azif",
-        "PL-Desc": "Move installed games from your internal HDD to an<br>external exFAT formatted USB drive.<br>Put app2usb.ini in a folder named PS4 on root of your USB drive.<br><br>",
+        "PL-Desc": "Move installed games from your internal HDD to an (بازی‌های نصب شده را از هارد داخلی خود به یک هارد دیگر منتقل کنید.)<br>external exFAT formatted USB drive. (درایو USB خارجی با فرمت exFAT)<br>Put app2usb.ini in a folder named PS4 on root of your USB drive. (فایل app2usb.ini را در پوشه‌ای به نام PS4 در ریشه درایو USB خود قرار دهید.)<br><br>",
         "Icon": "&#xf01c;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -48,7 +48,7 @@ var menuData = {
         "PL-Title": "Orbis Toolbox",
         "PL-Bin": "pl_OrbisTB.bin",
         "PL-Ver": "v1190 Alpha - By OSM-Made",
-        "PL-Desc": "A modification of the playstation UI to help with<br>launching and developing homebrew..",
+        "PL-Desc": "A modification of the playstation UI to help with(اصلاح رابط کاربری پلی‌استیشن برای کمک به)<br>launching and developing homebrew(راه‌اندازی و درحال توسعه‌ی خانگی)..",
         "Icon": "&#xf0b1;",
         "FW": ["9.00","7.xx"]
       },
@@ -56,7 +56,7 @@ var menuData = {
         "PL-Title": "Exit IDU",
         "PL-Bin": "pl_ExitIDU.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "A modification of the playstation UI to help with<br>launching and developing homebrew..",
+        "PL-Desc": "A modification of the playstation UI to help with(اصلاح رابط کاربری پلی‌استیشن برای کمک به)<br>launching and developing homebrew(راه‌اندازی و درحال توسعه‌ی خانگی)..",
         "Icon": "&#xF08B;",
         "FW": ["9.xx","8.xx","7.xx"]
       }
@@ -71,7 +71,7 @@ var menuData = {
         "PL-Title": "Tools Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "Contains tools to do various tasks and change things on your PS4.",
+        "PL-Desc": "Contains tools to do various tasks and change things on your PS4. (شامل ابزارهایی برای انجام کارهای مختلف و تغییر موارد در PS4 شما)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -79,7 +79,7 @@ var menuData = {
         "PL-Title": "PSFree/Lapse Fix",
         "PL-Bin": "pl-PsfreeFix.bin",
         "PL-Ver": "v1.0.0 - By RandQalan /Payload By Nazky",
-        "PL-Desc": "PSFree/Lapse Fix is a payload that uses a trick to fix the game's running problem. This payload installs a plugin on your console. Make sure to run the plugin on your device using GoldHEN.",
+        "PL-Desc": "PSFree/Lapse Fix is a payload that uses a trick to fix the game's running problem. This payload installs a plugin on your console. Make sure to run the plugin on your device using GoldHEN. (PSFree/Lapse Fix یک بسته‌ی الحاقی است که از یک ترفند برای رفع مشکل اجرای بازی استفاده می‌کند. این بسته‌ی الحاقی یک افزونه روی کنسول شما نصب می‌کند. حتماً افزونه را با استفاده از GoldHEN روی دستگاه خود اجرا کنید.)",
         "Icon": "&#xF0AD;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -87,7 +87,7 @@ var menuData = {
         "PL-Title": "PS4Debug",
         "PL-Bin": "pl_PS4debug.bin",
         "PL-Ver": "v1.1.19 - By CTN",
-        "PL-Desc": "PS4Debug for SaveMounter and Profile Activator.",
+        "PL-Desc": "PS4Debug for SaveMounter and Profile Activator. (PS4Debug برای SaveMounter و فعال‌کننده پروفایل)",
         "Icon": "&#xf188;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -95,7 +95,7 @@ var menuData = {
         "PL-Title": "Kernel Dumper",
         "PL-Bin": "pl_KernelDumper.bin",
         "PL-Ver": "v1.0 - Original Version By Eversion / Port By Al Azif",
-        "PL-Desc": "Dump a copy of your kernel to your USB drive.<br><br>Your kernel will be dumped to: KernelDump.bin on your USB drive.",
+        "PL-Desc": "Dump a copy of your kernel to your USB drive. (یک کپی از کرنل خود را روی درایو USB خود بریزید)<br><br>Your kernel will be dumped to: KernelDump.bin on your USB drive. (هسته شما به مسیر KernelDump.bin در درایو USB شما منتقل خواهد شد.)",
         "Icon": "&#xf828;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -103,7 +103,7 @@ var menuData = {
         "PL-Title": "Kernel Madule Dumper",
         "PL-Bin": "pl_ModuleDumper.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Kernel Madule Dumper Payload",
+        "PL-Desc": "Kernel Madule Dumper Payload (ماژول هسته دامپر)",
         "Icon": "&#xf828;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -111,7 +111,7 @@ var menuData = {
         "PL-Title": "History Blocker",
         "PL-Bin": "pl_HistoryBlocker.bin",
         "PL-Ver": "v2.0 - Original Version By Stooged / Port By Al Azif",
-        "PL-Desc": "Disable the auto opening of the last page used in the PS4 WebBrowser.<br><br>Run the payload again to disable this feature.",
+        "PL-Desc": "Disable the auto opening of the last page used in the PS4 WebBrowser. (غیرفعال کردن باز شدن خودکار آخرین صفحه استفاده شده در مرورگر وب PS4)<br><br>Run the payload again to disable this feature. (برای غیرفعال کردن این ویژگی، دوباره payload را اجرا کنید.)",
         "Icon": "&#xf686;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -119,7 +119,7 @@ var menuData = {
         "PL-Title": "Disable Updates",
         "PL-Bin": "pl_UpdatesDisable.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Creates dummy files in the PS4 update folder to prevent the download of unwanted system updates.<br>It also deletes any existing updates if they already exist.<br><br>! You only ever have to run this once !",
+        "PL-Desc": "Creates dummy files in the PS4 update folder to prevent the download of unwanted system updates. (فایل‌های ساختگی در پوشه‌ی به‌روزرسانی PS4 ایجاد می‌کند تا از دانلود به‌روزرسانی‌های ناخواسته‌ی سیستم جلوگیری کند.)<br>It also deletes any existing updates if they already exist. (همچنین اگر به‌روزرسانی‌های موجود از قبل وجود داشته باشند، آنها را حذف می‌کند.)<br><br>! You only ever have to run this once ! (شما فقط باید یک بار این را اجرا کنید)",
         "Icon": "&#xf771;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -127,7 +127,7 @@ var menuData = {
         "PL-Title": "Enable Updates",
         "PL-Bin": "pl_UpdatesEnable.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Removes the dummy files in the PS4 update folder to enable the download of updates again.<br><br>Run this if you have previously disabled updates and wish to update your console.",
+        "PL-Desc": "Removes the dummy files in the PS4 update folder to enable the download of updates again. (فایل‌های بی‌ارزش موجود در پوشه‌ی به‌روزرسانی PS4 را حذف می‌کند تا دانلود به‌روزرسانی‌ها دوباره امکان‌پذیر شود.)<br><br>Run this if you have previously disabled updates and wish to update your console. (اگر قبلاً به‌روزرسانی‌ها را غیرفعال کرده‌اید و می‌خواهید کنسول خود را به‌روزرسانی کنید، این دستور را اجرا کنید)",
         "Icon": "&#xf772;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -135,7 +135,7 @@ var menuData = {
         "PL-Title": "Disable ASLR",
         "PL-Bin": "pl_DisableASLR.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Disables the ASLR (Address space layout randomization) to make working with memory easier/repeatable.",
+        "PL-Desc": "Disables the ASLR (Address space layout randomization) to make working with memory easier/repeatable. (ASLR (تصادفی‌سازی طرح‌بندی فضای آدرس) را غیرفعال می‌کند تا کار با حافظه آسان‌تر/قابل تکرارتر شود.)",
         "Icon": "&#xf771;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -143,7 +143,7 @@ var menuData = {
         "PL-Title": "Enable Browser",
         "PL-Bin": "pl_EnableBrowser.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Permenently activates the browser without needing to sign into PSN.",
+        "PL-Desc": "Permenently activates the browser without needing to sign into PSN. (مرورگر را بدون نیاز به ورود به PSN به طور دائم فعال می‌کند)",
         "Icon": "&#xf772;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -151,7 +151,7 @@ var menuData = {
         "PL-Title": "Kernel Clock",
         "PL-Bin": "pl_KernelClock.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Changes the internal clock of the PS4, can be used to reactive licenses/features.",
+        "PL-Desc": "Changes the internal clock of the PS4, can be used to reactive licenses/features. (ساعت داخلی PS4 را تغییر می‌دهد، می‌تواند برای مجوزها/ویژگی‌های واکنشی استفاده شود)",
         "Icon": "&#xF017;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -159,7 +159,7 @@ var menuData = {
         "PL-Title": "Permanent UART",
         "PL-Bin": "pl_PermanentUART.bin",
         "PL-Ver": "v1.02 - By JTAG7371 / Port By Al Azif",
-        "PL-Desc": "Enables Permanent UART for PS4.",
+        "PL-Desc": "Enables Permanent UART for PS4. (UART دائمی را برای PS4 فعال می‌کند)",
         "Icon": "&#xF532;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -167,7 +167,7 @@ var menuData = {
         "PL-Title": "RIF Renamer",
         "PL-Bin": "pl_RIFRenamer.bin",
         "PL-Ver": "v1.0 - By Al Azif",
-        "PL-Desc": "Renames 'fake' RIFs to 'free' RIFs for better HEN compatibility. Use this if your PKGs only work with Mira+HEN.",
+        "PL-Desc": "Renames 'fake' RIFs to 'free' RIFs for better HEN compatibility. Use this if your PKGs only work with Mira+HEN. (برای سازگاری بهتر با HEN، RIF های «جعلی» را به RIF های «آزاد» تغییر نام می‌دهد. اگر PKG های شما فقط با Mira+HEN کار می‌کنند، از این استفاده کنید.)",
         "Icon": "&#xF573;",
         "FW": ["9.xx","8.xx","7.xx"]
       }
@@ -182,7 +182,7 @@ var menuData = {
         "PL-Title": "Backup Menu",
         "PL-Bin": "INFO",
         "PL-Ver": "Menu Info:",
-        "PL-Desc": "** More payloads will be added here soon... **<br>Contains various payloads to backup all aspect of useful things on your PS4.<br><br>NOTE! These backups will only work on your current Profile and accountID!<br>If you plan to initialize or replace your HDD you must also make a backup of your existing profile using the official backup/restore app in system settings!",
+        "PL-Desc": "** More payloads will be added here soon... (به زودی افزونه‌های بیشتری به اینجا اضافه خواهد شد)**<br>Contains various payloads to backup all aspect of useful things on your PS4. (شامل فایل‌های پشتیبان متنوعی برای پشتیبان‌گیری از تمام جنبه‌های مفید PS4 شما است.)<br><br>NOTE! These backups will only work on your current Profile and accountID! (توجه! این نسخه‌های پشتیبان فقط روی پروفایل و شناسه حساب فعلی شما کار می‌کنند.)<br>If you plan to initialize or replace your HDD you must also make a backup of your existing profile using the official backup/restore app in system settings! (اگر قصد دارید هارد دیسک خود را راه‌اندازی یا تعویض کنید، باید با استفاده از برنامه رسمی پشتیبان‌گیری/بازیابی در تنظیمات سیستم، از پروفایل فعلی خود نیز نسخه پشتیبان تهیه کنید!)",
         "Icon": "&#xf30f;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -190,7 +190,7 @@ var menuData = {
         "PL-Title": "Database Backup",
         "PL-Bin": "pl_DBbackup.bin",
         "PL-Ver": "v1.0 - By Leeful / Port By Al Azif",
-        "PL-Desc": "Create a backup of important database files.<br><br>A backup of your app databases will be created and saved internally on your PS4 HDD and also to USB if a USB drive is inserted.",
+        "PL-Desc": "Create a backup of important database files. (ایجاد نسخه پشتیبان از فایل‌های مهم پایگاه داده)<br><br>A backup of your app databases will be created and saved internally on your PS4 HDD and also to USB if a USB drive is inserted.",
         "Icon": "&#xf56e;",
         "FW": ["9.xx","8.xx","7.xx"]
       },
@@ -871,4 +871,5 @@ var menuData = {
       }
     ]
   }
+
 }
